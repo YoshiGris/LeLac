@@ -1,5 +1,7 @@
 # LeLac
 Test project for Unity 5 !
+
+https://www.youtube.com/watch?v=LCMhcrB_aU4
 # How to open the project to Unity 5 ?
 1) Download the project (Cpt' Obivous)
 
